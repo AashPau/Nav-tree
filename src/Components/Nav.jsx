@@ -1,5 +1,6 @@
 import React from "react";
 import { MenuList } from "./MenuList";
+import "./Styles.css";
 
 export const Nav = ({ menus = [] }) => {
 	return (
